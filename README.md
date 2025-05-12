@@ -1,7 +1,7 @@
 
 ### Connect with me:
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/NebulaNugget)
-[![Dev.to](https://skillicons.dev/icons?i=dev.to)]((https://dev.to/ericlin))
+[![Dev.to](https://skillicons.dev/icons?i=gmail)]((mailto:lin.tech410@gmail.com))
 
 ## Languages and Tools:
 ### Programming Languages
